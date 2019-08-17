@@ -1,7 +1,7 @@
 # ListPagination
 
 [![Swift5](https://img.shields.io/badge/swift5-compatible-green.svg?longCache=true&style=flat-square)](https://developer.apple.com/swift)
-[![Platform](https://img.shields.io/badge/platform-iOS-lightgrey.svg?longCache=true&style=flat-square)](https://www.apple.com/de/ios)
+[![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS-lightgrey.svg?longCache=true&style=flat-square)](https://www.apple.com)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?longCache=true&style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
 
 This Swift package provides extensions of **RandomAccessCollection** which help you add pagination support to your **SwiftUI** `List view`. It is already integrated in my [AdvancedList view (Wrapper around SwiftUI's List view)](https://github.com/crelies/AdvancedList).

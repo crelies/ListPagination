@@ -14,7 +14,7 @@ extension RandomAccessCollection where Self.Element: Identifiable {
             return false
         }
         
-        guard let itemIndex = firstIndex(where: { AnyHashable($0.id) == AnyHashable(item.id) }) else {
+        guard let itemIndex = lastIndex(where: { AnyHashable($0.id) == AnyHashable(item.id) }) else {
             return false
         }
         
@@ -28,7 +28,7 @@ extension RandomAccessCollection where Self.Element: Identifiable {
             return false
         }
         
-        guard let itemIndex = firstIndex(where: { AnyHashable($0.id) == AnyHashable(item.id) }) else {
+        guard let itemIndex = lastIndex(where: { AnyHashable($0.id) == AnyHashable(item.id) }) else {
             return false
         }
         
