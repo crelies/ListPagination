@@ -1,6 +1,6 @@
 # ListPagination
 
-[![Swift5](https://img.shields.io/badge/swift5-compatible-green.svg?longCache=true&style=flat-square)](https://developer.apple.com/swift)
+[![Swift 5.3](https://img.shields.io/badge/swift5.3-compatible-green.svg?longCache=true&style=flat-square)](https://developer.apple.com/swift)
 [![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20tvOS-lightgrey.svg?longCache=true&style=flat-square)](https://www.apple.com)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?longCache=true&style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
 
